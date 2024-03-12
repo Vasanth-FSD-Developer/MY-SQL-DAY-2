@@ -3,6 +3,6 @@ This Guvi Zen Class database model organizes user data, tracks code problem-solv
 
 # SCREEN SHOOT 
 
-<img src ="MYSQL2" />
+<img src ="MYSQL2.png" />
 
 
